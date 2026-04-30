@@ -1,0 +1,5 @@
+Primer repositorio del curso.
+Trabajo usando Git por SSH.
+Este archivo se usará para practicar cambios y commits.
+hola hola holaaaa!!!!
+
